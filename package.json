@@ -1,0 +1,18 @@
+{
+  "name": "geojson",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.5"
+  },
+  "dependencies": {
+    "leaflet": "^1.8.0",
+    "proj4": "^2.8.0",
+    "proj4leaflet": "^1.0.2"
+  }
+}
